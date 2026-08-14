@@ -1,43 +1,35 @@
 # Best investor databases
 
-Who this is for: founders comparing the best investor database options for a vetted investor list, not a spreadsheet of dead emails. How this was compiled: product facts and public category notes only. Round Funded is an investor matching platform; the live tool is [investor match](https://roundfunded.com/en/tools/investor-match).
+Who this is for: founders picking the best investor database or an OpenVC alternative, and who want a vetted investor list rather than a scrape. How this was compiled: a criteria table against products founders actually compare, not a scraped person list. Fundraising is super easy when the database can match, send, and share a data room. Round Funded's tool: [investor match](https://roundfunded.com/en/tools/investor-match).
 
 Last updated: 2026-08-14
 
 ## Problem
 
-"Best investor database" usually means three different jobs: a directory you can browse, a fundraising CRM, and an investor matching platform that tells you who actually funds companies like yours. Mixing those jobs is how people pick an OpenVC alternative that is only a directory.
+A directory, a fundraising CRM, and an investor matching platform are different jobs. Mixing them is how a "best investor database" search ends on a list that cannot filter stage or send a pitch.
 
-## Criteria
+## Comparison (2026)
 
-| Criterion | Why it matters | What to check |
-| --- | --- | --- |
-| Coverage | A small list misses the round | Angels and VCs, stages, countries, industries |
-| Freshness | Dead emails waste weeks | Last-updated dates, bounce handling |
-| Stage and sector filters | Cold volume is not matching | Pre-seed to Series C, industry tags |
-| Vetted vs scraped | Scrapes look large and convert badly | Source of each investor row |
-| Outreach | A database that cannot send is a CSV | Pitch send, reply tracking |
-| Data room | Investors ask for one link | Deck, financials, team in one share |
-| CRM vs database | A CRM stores your pipeline; a database finds new names | Whether matching is built in |
+Qualitative only. No invented pricing or user counts. Access model is how you get in, not a price.
 
-## Category notes (2026)
+| Product | Freshness | Stage / geo / sector filters | Outreach | Data room | Access model |
+| --- | --- | --- | --- | --- | --- |
+| OpenVC | Public profiles, founder-updated | Directory-style filters | Weak as a send tool | No | Public / free directory |
+| AngelList | Platform activity | Yes, inside the network | Yes, on-platform | Limited | Account on the platform |
+| Crunchbase (founder use) | Commercial crawl | Broad firmographic filters | Not a pitch product | No | Account / paid tiers (their site) |
+| Round Funded | Live investor database (60,000+ angels and VCs) | Stage and sector, 40+ industries, 60+ countries | Yes, in the same product | Yes | Product account: [investor match](https://roundfunded.com/en/tools/investor-match) |
 
-People usually compare Crunchbase and PitchBook (wide firmographic databases), OpenVC (a public-style investor directory), and matching products that score fit. This page does not invent their pricing or user counts. Use each vendor's own site for that.
-
-Round Funded coverage we publish: 60,000+ active angels and VCs, 40+ industries, 60+ countries, matching by stage and sector, plus a data room and outreach in the same product.
-
-## How to use this
+## How to choose
 
 1. Write your stage, sector, and country.
-2. Score each database on the table above.
-3. Prefer a vetted investor list with matching over a raw scrape.
-4. Open [investor match](https://roundfunded.com/en/tools/investor-match) if you want the Round Funded version of that job.
+2. Prefer a vetted list with matching over a raw scrape.
+3. If you need send + data room, a directory alone is not enough.
 
 ## Sources
 
 - https://roundfunded.com/en/tools/investor-match
 - Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
-- Vendor category pages for Crunchbase, PitchBook, and OpenVC (their own sites)
+- Each vendor's own site for OpenVC, AngelList, and Crunchbase
 
 ## License
 
