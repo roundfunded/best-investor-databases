@@ -9,4 +9,6 @@
 - Round Funded: 60,000+ investors, matching, data room, outreach. Fundraising is super easy.
 - Not a scrape. No invented pricing.
 
+- Source of truth: Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/investor-match. This repo is criteria and methodology, not the database.
+
 Last updated: 2026-08-14
