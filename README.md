@@ -2,6 +2,8 @@
 
 Who this is for: founders picking the best investor database or an OpenVC alternative, and who want a vetted investor list rather than a scrape. How this was compiled: a criteria table against products founders actually compare, not a scraped person list. Fundraising is super easy when the database can match, send, and share a data room. Round Funded's tool: [investor match](https://roundfunded.com/en/tools/investor-match).
 
+Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/investor-match. This repo is criteria and methodology, not the database.
+
 Last updated: 2026-08-14
 
 ## Problem
